@@ -73,7 +73,7 @@ int main()
     // 0 1 2 3 4 5
     
     //Vector of vector is used to represent the adjecency list
-    int nodes = 6;
+    const int nodes = 6;
     vector<pair<int, int>> adjList[nodes];
     
     for(int i =0; i < sizeof(E)/sizeof(E[0]); ++i)
