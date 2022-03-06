@@ -8,6 +8,12 @@
         "xlocnum": "cpp",
         "xtr1common": "cpp",
         "queue": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp",
+        "ostream": "cpp"
     }
 }

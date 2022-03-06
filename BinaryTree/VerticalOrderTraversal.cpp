@@ -21,7 +21,7 @@ struct Node {
 
 vector<vector<int>> VerticalOrderTraversal(Node* root)
 {
-    // Need queue for bfs, map forstoring the vertical and horizontal levels
+    // Need queue for bfs, map for storing the vertical and horizontal levels
     // vlevel, hlevel, (duplicate ordered data)node->data
     map<int, map<int, multiset<int>>> nodes;
 
